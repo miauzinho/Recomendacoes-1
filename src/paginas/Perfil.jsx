@@ -2,12 +2,10 @@ import estilos from './Perfil.module.css'
 
 export function Perfil(){
 
-  
-  function obterDadosFormulario(e){
-   }
-
     return(
+      
         <div className={estilos.conteiner}>
+          <p className={estilos.conteiner}>Perfil</p>
 
             <form className={estilos.formulario}
                  onSubmit={obterDadosFormulario}>
