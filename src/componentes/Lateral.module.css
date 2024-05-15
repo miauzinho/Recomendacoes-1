@@ -45,6 +45,7 @@
     height: 45px;
     border-radius: 8px;
     padding: 0 1rem;
+    -webkit-margin-bottom-collapse: 12px;
     border: 1px solid var(--roxo-escuro);
     background-color: transparent;
     color: var(--roxo-escuro);
